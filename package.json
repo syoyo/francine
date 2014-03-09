@@ -9,5 +9,9 @@
     , "passport-oauth": "*"
     , "mongoose": "*"
     , "express": "*"
+    , "ejs": "*"
+    , "gulp": "*"
+    , "gulp-prettify": "*"
+    , "gulp-js-prettify": "*"
   }
 }
